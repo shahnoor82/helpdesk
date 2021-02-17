@@ -1,0 +1,18 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\PrjEmail\PrjEmail\bin\Debug\PrjEmail.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\PrjEmail\PrjEmail\bin\Debug\PrjEmail.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\PrjEmail\PrjEmail\obj\x86\Debug\PrjEmail.Form1.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\PrjEmail\PrjEmail\obj\x86\Debug\PrjEmail.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\PrjEmail\PrjEmail\obj\x86\Debug\PrjEmail.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\PrjEmail\PrjEmail\obj\x86\Debug\PrjEmail.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\PrjEmail\PrjEmail\obj\x86\Debug\PrjEmail.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PrjEmail\PrjEmail\obj\x86\Debug\PrjEmail.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PrjEmail\PrjEmail\bin\Debug\PrjEmail.exe.config
+D:\DotNetProjects\HelpDesk\PrjEmail\PrjEmail\bin\Debug\HelpDeskEmailEngine.exe.config
+D:\DotNetProjects\HelpDesk\PrjEmail\PrjEmail\bin\Debug\HelpDeskEmailEngine.exe
+D:\DotNetProjects\HelpDesk\PrjEmail\PrjEmail\bin\Debug\HelpDeskEmailEngine.pdb
+D:\DotNetProjects\HelpDesk\PrjEmail\PrjEmail\obj\x86\Debug\PrjEmail.Form1.resources
+D:\DotNetProjects\HelpDesk\PrjEmail\PrjEmail\obj\x86\Debug\PrjEmail.Properties.Resources.resources
+D:\DotNetProjects\HelpDesk\PrjEmail\PrjEmail\obj\x86\Debug\PrjEmail.csproj.GenerateResource.Cache
+D:\DotNetProjects\HelpDesk\PrjEmail\PrjEmail\obj\x86\Debug\HelpDeskEmailEngine.exe
+D:\DotNetProjects\HelpDesk\PrjEmail\PrjEmail\obj\x86\Debug\HelpDeskEmailEngine.pdb
+D:\DotNetProjects\HelpDesk\PrjEmail\PrjEmail\obj\x86\Debug\PrjEmail.Form2.resources
